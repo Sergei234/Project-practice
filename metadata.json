@@ -1,0 +1,6 @@
+{
+  "name": "StudMarket — Bishkek Campus Marketplace",
+  "description": "Verified university secondhand marketplace for Bishkek students (KNU, AUCA, Manas, KRSU). Buy and sell textbooks, electronics, and dorm essentials safely on campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
